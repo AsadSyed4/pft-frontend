@@ -29,7 +29,7 @@ vite.config.js: Vite configuration file.
 ## Installation and Setup
 Before running the project, make sure you have Node.js and npm installed. To set up the project, follow these steps:
 
-Clone the repository: git clone <repository-url>
+Clone the repository: git clone [https://github.com/AsadSyed4/pft-frontend.git]
 Navigate to the project directory: cd Product-Feedback-Tool
 Install dependencies: npm install
 Running the Development Server
