@@ -37,7 +37,7 @@ To start the development server, run the following command:
 
 npm run dev
 
-This will launch the application locally, and you can access it in your browser at http://localhost:3000.
+This will launch the application locally, and you can access it in your browser at http://localhost:5173.
 
 Building for Production
 To build the application for production, run:
